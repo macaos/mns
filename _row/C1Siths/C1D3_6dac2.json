@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Booking a Flight",
+		"titleKo": "Booking a Flight",
+		"tags": [
+			"#flight",
+			"#booking",
+			"#travel",
+			"#departure"
+		],
+		"category": "Travel",
+		"expressionEn": "Have something ready",
+		"expressionKo": "미리 준비하다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Paul",
+				"gender": "M",
+				"sentence": "I'd like to book a flight to Paris."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Sure, when would you like to depart?"
+			},
+			{
+				"speaker": "Paul",
+				"gender": "M",
+				"sentence": "I'm thinking around the 15th of next month."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Let me check the availability. Do you prefer a morning or afternoon flight?"
+			},
+			{
+				"speaker": "Paul",
+				"gender": "M",
+				"sentence": "An afternoon flight would be great."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Alright. There's a direct flight leaving at 2:30 PM. Would that work for you?"
+			},
+			{
+				"speaker": "Paul",
+				"gender": "M",
+				"sentence": "Perfect! Let's book that one."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Very well, I'll secure your seat. Please have your passport details ready for the next step."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Sarah는 Paul에게 비행기 예약의 다음 단계를 위해 여권 정보를 준비하라고 요청하고 있습니다.",
+				"phrase_en": "Have something ready",
+				"phrase_ko": "미리 준비하다.",
+				"phrase_hook": "",
+				"example_en": "We're having guests tonight. Please have your room ready.",
+				"example_ko": "오늘 저녁에 손님이 오니까 방을 미리 준비해둬."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "파리로 가는 항공권을 예약하고 싶습니다."
+			},
+			{
+				"sentence": "네, 언제 출발하고 싶으신가요?"
+			},
+			{
+				"sentence": "다음 달 15일쯤 생각하고 있습니다."
+			},
+			{
+				"sentence": "자리 확인해보겠습니다. 오전 비행이 좋으실까요, 아니면 오후 비행이 좋으실까요?"
+			},
+			{
+				"sentence": "오후 비행이 좋을 것 같아요."
+			},
+			{
+				"sentence": "알겠습니다. 오후 2시 30분에 출발하는 직항편이 있습니다. 괜찮으실까요?"
+			},
+			{
+				"sentence": "완벽해요! 그 비행기로 예약하겠습니다."
+			},
+			{
+				"sentence": "알겠습니다, 자리를 확보해드리겠습니다. 다음 단계로 넘어가기 위해 여권 정보를 준비해주시면 됩니다."
+			}
+		]
+	}
+}

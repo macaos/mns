@@ -1,0 +1,123 @@
+{
+	"data_meta": {
+		"titleEn": "Checking Flight Schedule at the Airport",
+		"titleKo": "Checking Flight Schedule at the Airport",
+		"tags": [
+			"#Travel",
+			"#Airport",
+			"#FlightSchedule",
+			"#Inquiry",
+			"#Help"
+		],
+		"category": "해외여행 공항에서 비행기일정 확인",
+		"expressionEn": "check my flight schedule",
+		"expressionKo": "자신의 비행 시간이나 날짜를 확인하다"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Excuse me, could you help me out? "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "I'm a bit lost."
+			},
+			{
+				"speaker": "Anna",
+				"gender": "W",
+				"sentence": "Of course, how can I assist you?"
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "I'm trying to find where I can check my flight schedule. "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Can you guide me?"
+			},
+			{
+				"speaker": "Anna",
+				"gender": "W",
+				"sentence": "Absolutely. You can find the information on the display boards throughout the terminal. "
+			},
+			{
+				"speaker": "Anna",
+				"gender": "W",
+				"sentence": "Also, you can check it online through our official website."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "That's great. And how often is the information updated?"
+			},
+			{
+				"speaker": "Anna",
+				"gender": "W",
+				"sentence": "The information is updated in real-time, so it's always accurate."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Perfect! Thank you for your help."
+			},
+			{
+				"speaker": "Anna",
+				"gender": "W",
+				"sentence": "You're welcome! Have a nice trip!"
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 \"check my flight schedule\"는 David가 Anna에게 비행기의 날짜와 시간 정보를 어디에서 찾을 수 있는지 도움을 청하는",
+				"phrase_en": "check my flight schedule",
+				"phrase_ko": "자신의 비행 시간이나 날짜를 확인하다",
+				"phrase_hook": "",
+				"example_en": "Before leaving for the airport, I need to check my flight schedule.",
+				"example_ko": ""
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 제게 도움을 주실 수 있나요? "
+			},
+			{
+				"sentence": "조금 헤매고 있어요."
+			},
+			{
+				"sentence": "물론이죠, 어떻게 도와드릴까요?"
+			},
+			{
+				"sentence": "비행 일정을 확인할 수 있는 곳을 찾고 있는데, "
+			},
+			{
+				"sentence": "가이드해주실 수 있나요?"
+			},
+			{
+				"sentence": "그럼요, 터미널 전체에 있는 디스플레이 보드에서 정보를 찾을 수 있습니다. "
+			},
+			{
+				"sentence": "또는, 공식 웹사이트를 통해 온라인으로 확인하실 수도 있어요."
+			},
+			{
+				"sentence": "좋군요. 그럼 정보는 얼마나 자주 업데이트되나요?"
+			},
+			{
+				"sentence": "정보는 실시간으로 업데이트되므로 항상 정확합니다."
+			},
+			{
+				"sentence": "완벽해요! 도움주셔서 감사합니다."
+			},
+			{
+				"sentence": "천만에요! 즐거운 여행되세요!"
+			}
+		]
+	}
+}

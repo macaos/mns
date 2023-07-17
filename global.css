@@ -1,0 +1,8 @@
+nav.nextra-toc .nextra-scrollbar .nx-sticky>a {
+    display: none;
+}
+
+:root,
+body {
+    color-scheme: light !important;
+}

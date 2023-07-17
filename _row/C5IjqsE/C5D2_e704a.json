@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring About Airport Shuttle Service at a Hotel",
+		"titleKo": "Inquiring About Airport Shuttle Service at a Hotel",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#AirportShuttle",
+			"#FrontDesk"
+		],
+		"category": "호텔에서 공항셔틀 이용 문의",
+		"expressionEn": "reserve",
+		"expressionKo": "미리 정해 두다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "\"Excuse me, I have a flight tomorrow morning. "
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Does the hotel provide a shuttle service to the airport?\""
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "\"Yes, we do. "
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "The shuttle runs every hour from 6 AM to 9 PM. \""
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Great! How can I reserve a seat?"
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "\"You can book a seat at the reception desk. "
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "We recommend doing it at least two hours before your departure time.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Robert는 셔틀에 미리 자리를 잡는 방법을 묻기 위해 '예약하다'라는 단어를 사용합니다.",
+				"phrase_en": "reserve",
+				"phrase_ko": "미리 정해 두다.",
+				"phrase_hook": "",
+				"example_en": "I would like to reserve a table for two at 7 pm.",
+				"example_ko": "저녁 7시에 두 사람 테이블을 예약하고 싶습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"실례합니다, 내일 아침에 비행기가 있습니다. "
+			},
+			{
+				"sentence": "호텔에서 공항까지 셔틀 서비스를 제공하나요?\""
+			},
+			{
+				"sentence": "\"네, 제공하고 있습니다. "
+			},
+			{
+				"sentence": "셔틀은 오전 6시부터 오후 9시까지 매시간 운행합니다.\""
+			},
+			{
+				"sentence": "좋습니다! 좌석은 어떻게 예약하나요?"
+			},
+			{
+				"sentence": "\"저희 프론트 데스크에서 좌석을 예약하실 수 있습니다. "
+			},
+			{
+				"sentence": "출발 시간 최소 2시간 전에 예약하시는 것을 권장드립니다.\""
+			}
+		]
+	}
+}

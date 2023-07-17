@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Requesting To Take Leftover Food Home at a Restaurant",
+		"titleKo": "Requesting To Take Leftover Food Home at a Restaurant",
+		"tags": [
+			"#Restaurant",
+			"#Leftover",
+			"#Food",
+			"#Request"
+		],
+		"category": "식당에서 남은 음식 포장 요청",
+		"expressionEn": "take home",
+		"expressionKo": "어떤 장소에서 물건을 가지고 가다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "\"Excuse me, I couldn't finish my meal. "
+			},
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "Can I take the rest home?\""
+			},
+			{
+				"speaker": "Lucy",
+				"gender": "W",
+				"sentence": "Of course! Let me pack it up for you."
+			},
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "Thank you. How long do you think it will take?"
+			},
+			{
+				"speaker": "Lucy",
+				"gender": "W",
+				"sentence": "\"Just a few minutes. "
+			},
+			{
+				"speaker": "Lucy",
+				"gender": "W",
+				"sentence": "I'll bring it to your table when it's ready.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Jack는 '가져가다'라는 표현을 사용하여 남은 음식을 집으로 가져가려는 의도를 나타냈습니다.",
+				"phrase_en": "take home",
+				"phrase_ko": "어떤 장소에서 물건을 가지고 가다.",
+				"phrase_hook": "",
+				"example_en": "I have a lot of work to do, so I decided to take home the report and work on it there.",
+				"example_ko": "제가 할 일이 많아서, 보고서를 가져와서 집에서 작업하기로 결정했습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"실례합니다, 제가 음식을 다 먹지 못했습니다. "
+			},
+			{
+				"sentence": "남은 부분을 집에 가져가도 될까요?\""
+			},
+			{
+				"sentence": "물론이죠! 저가 담아 드리겠습니다."
+			},
+			{
+				"sentence": "감사합니다. 얼마나 걸릴까요?"
+			},
+			{
+				"sentence": "\"몇 분 안에 준비될 것입니다. "
+			},
+			{
+				"sentence": "준비되면 테이블로 가져다 드리겠습니다.\""
+			}
+		]
+	}
+}

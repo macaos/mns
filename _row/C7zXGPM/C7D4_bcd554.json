@@ -1,0 +1,106 @@
+{
+	"data_meta": {
+		"titleEn": "Reporting a Missing Child at a Theme Park to the Police",
+		"titleKo": "Reporting a Missing Child at a Theme Park to the Police",
+		"tags": [
+			"#Emergency",
+			"#Police",
+			"#MissingChild",
+			"#ThemePark"
+		],
+		"category": "긴급하게 경찰에게-놀이공원에서 아이를 잃어버려서 신고",
+		"expressionEn": "disappeared",
+		"expressionKo": "보이지 않거나 찾을 수 없게 되었다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "Hello, officer. I need help. "
+			},
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "I can't find my child."
+			},
+			{
+				"speaker": "Samantha",
+				"gender": "W",
+				"sentence": "Alright sir, can you describe your child? "
+			},
+			{
+				"speaker": "Samantha",
+				"gender": "W",
+				"sentence": "How old is he and what was he wearing?"
+			},
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "He's 6 years old. "
+			},
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "He was wearing a red t-shirt and blue jeans."
+			},
+			{
+				"speaker": "Samantha",
+				"gender": "W",
+				"sentence": "And where did you last see him?"
+			},
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "Near the carousel. "
+			},
+			{
+				"speaker": "Brian",
+				"gender": "M",
+				"sentence": "We were about to ride it, but he disappeared."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Brian은 '사라졌어요'라는 단어를 사용하여 아이가 없어져서 찾을 수 없음을 설명합니다.",
+				"phrase_en": "disappeared",
+				"phrase_ko": "보이지 않거나 찾을 수 없게 되었다.",
+				"phrase_hook": "",
+				"example_en": "I put my keys on the table, but they've disappeared.",
+				"example_ko": "탁자 위에 열쇠를 두었는데, 사라졌어요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 경관님. 도와주세요. "
+			},
+			{
+				"sentence": "제 아이를 찾을 수 없습니다."
+			},
+			{
+				"sentence": "네, 그럼 아이의 모습을 설명해주실 수 있나요? "
+			},
+			{
+				"sentence": "몇 살이고 무슨 옷을 입고 있었나요?"
+			},
+			{
+				"sentence": "6살입니다. "
+			},
+			{
+				"sentence": "빨간색 티셔츠와 청바지를 입고 있었습니다."
+			},
+			{
+				"sentence": "그리고 마지막으로 어디에서 보셨나요?"
+			},
+			{
+				"sentence": "회전목마 근처였습니다. "
+			},
+			{
+				"sentence": "타려고 했는데, 사라졌어요."
+			}
+		]
+	}
+}

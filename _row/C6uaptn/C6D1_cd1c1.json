@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Buying a Family Ticket at a Tourist Attraction",
+		"titleKo": "Buying a Family Ticket at a Tourist Attraction",
+		"tags": [
+			"#Travel",
+			"#Tourism",
+			"#Family",
+			"#Tickets"
+		],
+		"category": "관광지에서 가족 입장권 구매",
+		"expressionEn": "economical",
+		"expressionKo": "지출한 금액에 대한 좋은 가치나 서비스를 제공하는."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Excuse me, I'd like to buy tickets for my family. "
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "We are four in total."
+			},
+			{
+				"speaker": "Helen",
+				"gender": "W",
+				"sentence": "Certainly, would you like to purchase our family pass? "
+			},
+			{
+				"speaker": "Helen",
+				"gender": "W",
+				"sentence": "It's more economical for groups of four."
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "That sounds great. "
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "How much is the family pass?"
+			},
+			{
+				"speaker": "Helen",
+				"gender": "W",
+				"sentence": "The family pass is $50. It includes entry for two adults and two children."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Helen은 '경제적인'이라는 단어를 사용하여 4인 그룹에게 가족 패스가 가성비가 좋다고 설명합니다.",
+				"phrase_en": "economical",
+				"phrase_ko": "지출한 금액에 대한 좋은 가치나 서비스를 제공하는.",
+				"phrase_hook": "",
+				"example_en": "Buying in bulk is more economical than buying individual items.",
+				"example_ko": "대량 구매는 개별 아이템 구매보다 경제적입니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 가족을 위한 티켓을 구매하고 싶습니다. "
+			},
+			{
+				"sentence": "우리는 총 4명입니다."
+			},
+			{
+				"sentence": "그럼 가족 패스를 구매하시겠어요? "
+			},
+			{
+				"sentence": "4인 그룹에게 더 경제적입니다."
+			},
+			{
+				"sentence": "그것이 좋겠네요. "
+			},
+			{
+				"sentence": "가족 패스는 얼마인가요?"
+			},
+			{
+				"sentence": "가족 패스는 50달러이며, 두 명의 성인과 두 명의 어린이 입장이 포함되어 있습니다."
+			}
+		]
+	}
+}

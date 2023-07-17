@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Taking a Taxi to the National Park",
+		"titleKo": "Taking a Taxi to the National Park",
+		"tags": [
+			"#Travel",
+			"#Taxi",
+			"#NationalPark",
+			"#Journey"
+		],
+		"category": "국립공원 가기위해 택시탑승 상황",
+		"expressionEn": "hop in",
+		"expressionKo": "차량에 올라타다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Excuse me, could you take me to the national park?"
+			},
+			{
+				"speaker": "Laura",
+				"gender": "W",
+				"sentence": "Sure, hop in. It's quite a drive, though."
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "How long will it take to get there?"
+			},
+			{
+				"speaker": "Laura",
+				"gender": "W",
+				"sentence": "Around an hour, depending on the traffic."
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Thank you. I'm really looking forward to seeing the park."
+			},
+			{
+				"speaker": "Laura",
+				"gender": "W",
+				"sentence": "You're welcome. Enjoy your visit!"
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Laura는 '타다'라는 표현을 사용하여 Robert에게 택시에 타라고 초대합니다.",
+				"phrase_en": "hop in",
+				"phrase_ko": "차량에 올라타다.",
+				"phrase_hook": "",
+				"example_en": "The car is ready. Hop in, and we will go.",
+				"example_ko": "차가 준비되었습니다. 타세요, 그러면 우리가 갈게요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 국립공원까지 가 주시겠어요?"
+			},
+			{
+				"sentence": "네, 타세요. 좀 멀긴 합니다만."
+			},
+			{
+				"sentence": "거기에 도착하는데 얼마나 걸리나요?"
+			},
+			{
+				"sentence": "교통 상황에 따라서지만, 대략 한 시간 정도입니다."
+			},
+			{
+				"sentence": "감사합니다. 공원을 보는 것이 정말 기대되네요."
+			},
+			{
+				"sentence": "천만에요. 방문 즐기세요!"
+			}
+		]
+	}
+}

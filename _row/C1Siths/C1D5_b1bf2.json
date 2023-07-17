@@ -1,0 +1,138 @@
+{
+	"data_meta": {
+		"titleEn": "Unexpected Flight Booking at the Airport",
+		"titleKo": "Unexpected Flight Booking at the Airport",
+		"tags": [
+			"#Travel",
+			"#Airport",
+			"#UnexpectedBooking",
+			"#Assistance"
+		],
+		"category": "해외여행 공항에서 갑작스러운 비행기 티켓 예약",
+		"expressionEn": "catch a flight",
+		"expressionKo": "비행기를 타다"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Hi, I find myself needing to catch a flight unexpectedly. "
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Could you assist me?"
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Sure, I can help with that. "
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Where do you need to go?"
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "I need to get to Tokyo as soon as possible."
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Alright. Let me see what we have available. "
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Do you have any luggage to check in?"
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Yes, I have one suitcase."
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Perfect. We have a flight leaving in two hours. "
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Is that okay for you?"
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "That sounds excellent. "
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "How should I proceed with the booking?"
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "You can book it online through our website or I can help you book it right now at this counter."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 John은 \"비행기를 타다\"라는 표현을 사용하여 갑작스럽게 비행기를 타야 한다는 필요성을 표현합니다.",
+				"phrase_en": "catch a flight",
+				"phrase_ko": "비행기를 타다",
+				"phrase_hook": "",
+				"example_en": "I need to catch a flight to New York tomorrow.",
+				"example_ko": "내일 뉴욕행 비행기를 타야 해요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 갑작스럽게 비행기를 잡아야 하는 상황이 생겼습니다. "
+			},
+			{
+				"sentence": "도와주실 수 있나요?"
+			},
+			{
+				"sentence": "그럼요, 그런 일을 도와드릴 수 있습니다. "
+			},
+			{
+				"sentence": "어디로 가셔야 하나요?"
+			},
+			{
+				"sentence": "가능한 한 빨리 도쿄로 가야 합니다."
+			},
+			{
+				"sentence": "알겠습니다. 가능한 비행기를 확인해 보겠습니다. "
+			},
+			{
+				"sentence": "짐은 체크인하실 건가요?"
+			},
+			{
+				"sentence": "네, 짐이 하나 있습니다."
+			},
+			{
+				"sentence": "좋습니다. 두 시간 후에 출발하는 비행기가 있습니다. "
+			},
+			{
+				"sentence": "괜찮으신가요?"
+			},
+			{
+				"sentence": "그게 좋겠네요. "
+			},
+			{
+				"sentence": "예약은 어떻게 진행하면 될까요?"
+			},
+			{
+				"sentence": "저희 웹사이트에서 온라인으로 예약하실 수 있고, 이 창구에서 바로 도와드릴 수도 있습니다."
+			}
+		]
+	}
+}

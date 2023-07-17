@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Ordering Dessert at a Restaurant",
+		"titleKo": "Ordering Dessert at a Restaurant",
+		"tags": [
+			"#Restaurant",
+			"#Dessert",
+			"#Ordering",
+			"#Communication"
+		],
+		"category": "식당에서 디저트 추가 주문",
+		"expressionEn": "right away",
+		"expressionKo": "즉시."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Excuse me, could we get the dessert menu?"
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "\"Of course, here it is. "
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "Our chocolate cake is quite popular.\""
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "\"Sounds great. "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "We'll have one slice of that, please.\""
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "Absolutely, I'll get that for you right away."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Lisa는 '바로'라는 단어를 사용하여 주문한 디저트를 즉시 가져다줄 것임을 나타냅니다.",
+				"phrase_en": "right away",
+				"phrase_ko": "즉시.",
+				"phrase_hook": "",
+				"example_en": "I'll get that for you right away.",
+				"example_ko": "바로 가져다 드리겠습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 디저트 메뉴를 볼 수 있을까요?"
+			},
+			{
+				"sentence": "\"물론이죠, 여기 있습니다. "
+			},
+			{
+				"sentence": "우리의 초콜릿 케이크가 매우 인기가 있습니다.\""
+			},
+			{
+				"sentence": "\"멋져 보입니다. "
+			},
+			{
+				"sentence": "그걸로 한 조각 주세요.\""
+			},
+			{
+				"sentence": "네, 알겠습니다. 바로 가져다 드리겠습니다."
+			}
+		]
+	}
+}

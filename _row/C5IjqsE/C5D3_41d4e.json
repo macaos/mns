@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Asking about International Driving Permit",
+		"titleKo": "Asking about International Driving Permit",
+		"tags": [
+			"#Travel",
+			"#Driving",
+			"#InternationalDrivingPermit",
+			"#License"
+		],
+		"category": "국제 운전면허증 정보 문의",
+		"expressionEn": "apply for",
+		"expressionKo": "공식적으로 요청하다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "I'm planning to drive abroad. "
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "Do I need a special license for that?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Yes, you need an International Driving Permit, or IDP, in addition to your regular license."
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "Where can I get this IDP?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "You can apply for it at your local automobile association. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Just make sure to bring your current driver's license and passport-sized photos."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophia는 '신청하다'라는 표현을 사용하여 George가 지역 자동차 협회에서 국제 운전 면허증을 공식적으로 요청할 수 있다고 설명합니다.",
+				"phrase_en": "apply for",
+				"phrase_ko": "공식적으로 요청하다.",
+				"phrase_hook": "",
+				"example_en": "You can apply for a new passport at the post office.",
+				"example_ko": "우체국에서 새 여권을 신청할 수 있습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "해외에서 운전을 계획하고 있습니다. "
+			},
+			{
+				"sentence": "특별한 면허가 필요한가요?\""
+			},
+			{
+				"sentence": "\"네, 국제 운전 면허증이라는 것과 일반 면허증이 필요합니다."
+			},
+			{
+				"sentence": "\"국제 운전 면허증은 어디서 받을 수 있나요?"
+			},
+			{
+				"sentence": "귀하의 지역 자동차 협회에서 신청하실 수 있습니다. "
+			},
+			{
+				"sentence": "현재의 운전면허증과 여권 사이즈의 사진을 가져오세요."
+			}
+		]
+	}
+}

@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Request for Late Check-out at a Hotel",
+		"titleKo": "Request for Late Check-out at a Hotel",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#LateCheckout",
+			"#Request"
+		],
+		"category": "해외여행 호텔 늦은 체크아웃 요청",
+		"expressionEn": "I appreciate it",
+		"expressionKo": "감사하다는 표현"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Good morning, ma'am. How can I help you today?"
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Good morning. I was wondering if I could check out a bit later today."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Let me see... Normally, check-out time is at 11 am. "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "How much additional time do you need?"
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Could I possibly extend it to 1 pm?"
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Let me check with our housekeeping. Yes, that's fine. "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Just please leave the room key at the front desk before you leave."
+			},
+			{
+				"speaker": "Emma",
+				"gender": "W",
+				"sentence": "Thank you, I appreciate it."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Emma가 늦은 체크아웃을 허락해 준 David에게 감사의 의미로 이 표현을 사용합니다.",
+				"phrase_en": "I appreciate it",
+				"phrase_ko": "감사하다는 표현",
+				"phrase_hook": "",
+				"example_en": "Thank you for your help. I appreciate it.",
+				"example_ko": "도움을 주셔서 감사합니다. 정말 감사해요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 부인. 오늘 어떻게 도와드릴까요?"
+			},
+			{
+				"sentence": "안녕하세요. 오늘 좀 늦게 체크아웃할 수 있을까요?"
+			},
+			{
+				"sentence": "확인해보겠습니다... 일반적으로 체크아웃 시간은 오전 11시입니다. "
+			},
+			{
+				"sentence": "얼마나 더 필요하신가요?"
+			},
+			{
+				"sentence": "오후 1시까지 가능할까요?"
+			},
+			{
+				"sentence": "하우스키퍼와 확인해보겠습니다. 네, 괜찮습니다. "
+			},
+			{
+				"sentence": "나가실 때 키는 프론트 데스크에 두시면 됩니다."
+			},
+			{
+				"sentence": "감사합니다. 정말 도움이 되네요."
+			}
+		]
+	}
+}

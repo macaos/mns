@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Asking About Ready Meals at a Supermarket During Overseas Travel",
+		"titleKo": "Asking About Ready Meals at a Supermarket During Overseas Travel",
+		"tags": [
+			"#Travel",
+			"#Supermarket",
+			"#ReadyMeals",
+			"#StaffAssistance"
+		],
+		"category": "해외여행 중 마트에서 \b직원에게 간편식 문의",
+		"expressionEn": "ready meals",
+		"expressionKo": "가열해서 바로 먹을 수 있는 조리된 음식."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Excuse me, I'm looking for some quick and easy meals. Can you help me?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "\"Sure, we have a range of ready meals in the frozen section. "
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "Would you like to try them?\""
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "\"Sounds good. "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "How do I prepare them?\""
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "\"You just need to heat them in the microwave for a few minutes. "
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "The instructions are on the package.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophie는 '간편식'을 David에게 빠르고 쉽게 조리할 수 있는 식사 옵션으로 제안합니다.",
+				"phrase_en": "ready meals",
+				"phrase_ko": "가열해서 바로 먹을 수 있는 조리된 음식.",
+				"phrase_hook": "",
+				"example_en": "I don't feel like cooking tonight, so I'll just have a ready meal.",
+				"example_ko": "오늘 밤은 요리하기 싫으니 간편식을 먹을 거야."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 간편하게 조리할 수 있는 음식을 찾고 있는데 도와주실 수 있나요?"
+			},
+			{
+				"sentence": "\"네, 냉동 섹션에 다양한 종류의 간편식을 준비해두었습니다. "
+			},
+			{
+				"sentence": "시도해 보시겠어요?\""
+			},
+			{
+				"sentence": "\"좋아요. "
+			},
+			{
+				"sentence": "어떻게 조리하면 되나요?\""
+			},
+			{
+				"sentence": "\"전자레인지에서 몇 분 동안 가열하기만 하면 됩니다. "
+			},
+			{
+				"sentence": "조리법은 패키지에 있습니다.\""
+			}
+		]
+	}
+}

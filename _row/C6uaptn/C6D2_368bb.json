@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Reserving a Museum Tour Program",
+		"titleKo": "Reserving a Museum Tour Program",
+		"tags": [
+			"#Museum",
+			"#Tour",
+			"#Reservation",
+			"#Travel"
+		],
+		"category": "박물관 투어 프로그램 예약",
+		"expressionEn": "reservation",
+		"expressionKo": "미리 어떤 것을 확보하기 위한 조치."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Hi, I'm interested in signing up for a guided tour of the museum. "
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Could you help me with that?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Of course, we have tours every day at 10 AM and 2 PM. "
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "There will be four of us. "
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Can we reserve spots for the 10 AM tour tomorrow?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Yes, I've made a reservation for you. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Please arrive 15 minutes early."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophia는 '예약'이라는 단어를 사용하여 Tom과 그의 파티를 위해 박물관 투어에 자리를 확보했다는 것을 확인합니다.",
+				"phrase_en": "reservation",
+				"phrase_ko": "미리 어떤 것을 확보하기 위한 조치.",
+				"phrase_hook": "",
+				"example_en": "I've made a reservation for four people at the restaurant.",
+				"example_ko": "저는 레스토랑에 네 명을 위한 예약을 했습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 박물관 가이드 투어에 참여하고 싶습니다. "
+			},
+			{
+				"sentence": "도와주실 수 있나요?"
+			},
+			{
+				"sentence": "물론입니다, 우리는 매일 오전 10시와 오후 2시에 투어를 진행합니다. "
+			},
+			{
+				"sentence": "우리는 네 명입니다. "
+			},
+			{
+				"sentence": "내일 오전 10시 투어에 자리를 예약할 수 있나요?"
+			},
+			{
+				"sentence": "네, 예약해 드렸습니다. "
+			},
+			{
+				"sentence": "15분 전에 도착해 주세요."
+			}
+		]
+	}
+}

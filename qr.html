@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>모노영어QR</title>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-1S38DFG9MW"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'G-1S38DFG9MW');
+
+
+
+        const mid = parseURLParameters(document.location.search).mid;
+        if (mid) {
+            const yid = {
+                'b_1s_1': 't0FcbI0v_7I',// 1초 순간 
+                'b_1s_2': 'DV5YxHfhC3c',
+                'b_1s_3': 'h8jD11sMPig',
+                'b_1s_4': 'dfceO3-Gk7M',
+                'b_1s_5': 'R_c2VEbG1Ro',
+                'a_ptn1_1': 'DeOc9m0c6r8',// 초급 패턴
+                'a_ptn1_2': 'tsqxDYX6vWA',
+                'a_ptn1_3': '7gFEPBjiBKE',
+                'a_ptn1_4': 'd2bzJD6IWKQ',
+                'a_ptn1_5': 'ry5_JC7MLP4',
+                'a_ptn1_6': '',
+                'a_ptn1_7': '',
+                'a_ptn1_8': '',
+                'endVal': ''
+            }[mid];
+            if (yid) {
+                gtag('event', 'page_view', {
+                    page_title: '모노QR',
+                    page_location: yid,
+                    send_to: 'G-1S38DFG9MW'
+                })
+
+                document.location.href = `https://youtu.be/${yid}`
+            } else {
+                gtag('event', 'page_view', {
+                    page_title: '모노QR',
+                    page_location: 'null',
+                    send_to: 'G-1S38DFG9MW'
+                })
+
+            }
+
+        }
+
+
+
+        function parseURLParameters(url) {
+            url = url.split('&amp;').join('&'); // 주소에 &가 &amp; 로 잘못 넘어오는 경우 예외처리
+            return this.deserialize(url.split('?')[1]);
+        }
+
+        function deserialize(str) {
+            var result = {};
+            str = str || '';
+
+            str.split('&').forEach(function (paramText) {
+                var paramComponents = paramText.split('=');
+                var key = paramComponents[0];
+                var value = paramComponents[1];
+                if (key) {
+                    result[key] = decodeURIComponent(value);
+                }
+            });
+            return result;
+        }
+
+
+    </script>
+</head>
+
+<body>
+    잠시 후 요청하신 유튜브로 이동합니다.
+</body>
+
+</html>

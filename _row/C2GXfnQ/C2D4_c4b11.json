@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring about Hotel Room Wi-Fi",
+		"titleKo": "Inquiring about Hotel Room Wi-Fi",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#Wifi",
+			"#Internet"
+		],
+		"category": "해외여행 호텔 객실 와이파이 정보",
+		"expressionEn": "I'm having trouble",
+		"expressionKo": "어려움을 겪다"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Good evening, how may I assist you today?"
+			},
+			{
+				"speaker": "Lily",
+				"gender": "W",
+				"sentence": "Good evening. I'm trying to connect to the internet in my room, but I'm having trouble. "
+			},
+			{
+				"speaker": "Lily",
+				"gender": "W",
+				"sentence": "Could you help me with that?"
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Certainly, ma'am. The network name should be \"HotelGuest\" and the password is \"welcome1234\"."
+			},
+			{
+				"speaker": "Lily",
+				"gender": "W",
+				"sentence": "Great, thank you. And is it available in all areas of the hotel?"
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Yes, the Wi-Fi is accessible in all rooms and public areas of the hotel."
+			},
+			{
+				"speaker": "Lily",
+				"gender": "W",
+				"sentence": "Excellent, thank you for your help, David."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Lily가 인터넷에 연결하는 데 어려움을 겪고 있다는 것을 표현하기 위해 이 문구를 사용합니다.",
+				"phrase_en": "I'm having trouble",
+				"phrase_ko": "어려움을 겪다",
+				"phrase_hook": "",
+				"example_en": "I'm having trouble with this math problem.",
+				"example_ko": "이 수학 문제가 어렵습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하십니까, 어떻게 도와드릴까요?"
+			},
+			{
+				"sentence": "안녕하세요. 제 방에서 인터넷에 연결하려고 하는데 문제가 있습니다. "
+			},
+			{
+				"sentence": "도와주실 수 있나요?"
+			},
+			{
+				"sentence": "물론입니다, 부인. 네트워크 이름은 \"HotelGuest\"이고 비밀번호는 \"welcome1234\"입니다."
+			},
+			{
+				"sentence": "좋습니다, 감사합니다. 그리고 호텔 전체에서 사용할 수 있는 건가요?"
+			},
+			{
+				"sentence": "네, 호텔의 모든 객실 및 공공장소에서 Wi-Fi를 이용하실 수 있습니다."
+			},
+			{
+				"sentence": "훌륭합니다, 도와주셔서 감사합니다, David."
+			}
+		]
+	}
+}

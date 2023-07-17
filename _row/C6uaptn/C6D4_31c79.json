@@ -1,0 +1,74 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring About Stroller Rental for a Museum Tour",
+		"titleKo": "Inquiring About Stroller Rental for a Museum Tour",
+		"tags": [
+			"#Museum",
+			"#Tour",
+			"#StrollerRental",
+			"#Baby"
+		],
+		"category": "박물관 투어 - 아기를 위해 유모차 대여 문의",
+		"expressionEn": "valid ID",
+		"expressionKo": "현재 유효하고 합법적인 신분증."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Hello, I'm planning to visit the museum with my baby. Do you offer stroller rentals?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "Yes, we do have strollers for rent. "
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "They are located at the information desk."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Great. How much is the rental fee?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "It's free of charge, but we require a valid ID for security reasons."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophie는 유모차를 대여하기 전에 보안을 위해 '유효한 신분증'을 요구합니다.",
+				"phrase_en": "valid ID",
+				"phrase_ko": "현재 유효하고 합법적인 신분증.",
+				"phrase_hook": "",
+				"example_en": "To rent a car, you need to present a valid ID and a credit card.",
+				"example_ko": "차를 렌트하려면 유효한 신분증과 신용카드를 제시해야 합니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 제가 아기와 함께 박물관을 방문할 계획입니다. 유모차 대여 서비스가 있나요?"
+			},
+			{
+				"sentence": "네, 저희는 유모차 대여 서비스가 있습니다. "
+			},
+			{
+				"sentence": "안내 데스크에서 대여하실 수 있습니다."
+			},
+			{
+				"sentence": "좋습니다. 대여료는 얼마인가요?"
+			},
+			{
+				"sentence": "대여료는 무료이지만, 보안상의 이유로 유효한 신분증을 요구합니다."
+			}
+		]
+	}
+}

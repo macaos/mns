@@ -1,0 +1,74 @@
+{
+	"data_meta": {
+		"titleEn": "Asking for a Table at a Restaurant During a Trip",
+		"titleKo": "Asking for a Table at a Restaurant During a Trip",
+		"tags": [
+			"#Travel",
+			"#Restaurant",
+			"#Dining",
+			"#Reservation"
+		],
+		"category": "해외여행 중 식당에서 자리 있는지 문의",
+		"expressionEn": "available",
+		"expressionKo": "사용할 수 있는."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Alex",
+				"gender": "M",
+				"sentence": "Excuse me, do you have any tables available?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Yes, we do. For how many people?"
+			},
+			{
+				"speaker": "Alex",
+				"gender": "M",
+				"sentence": "For two, please."
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "\"Sure, please follow me. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "I'll show you to your table.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Alex는 '사용 가능한'이라는 단어를 사용하여 식당에 사용할 수 있는 테이블이 있는지 묻습니다.",
+				"phrase_en": "available",
+				"phrase_ko": "사용할 수 있는.",
+				"phrase_hook": "",
+				"example_en": "Excuse me, do you have any tables available?",
+				"example_ko": "실례합니다, 자리가 있나요?"
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 자리가 있나요?"
+			},
+			{
+				"sentence": "네, 있습니다. 몇 분이신가요?"
+			},
+			{
+				"sentence": "두 명입니다."
+			},
+			{
+				"sentence": "\"알겠습니다, 제가 안내하겠습니다. "
+			},
+			{
+				"sentence": "자리를 보여드리겠습니다.\""
+			}
+		]
+	}
+}

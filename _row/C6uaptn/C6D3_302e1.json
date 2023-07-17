@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring About Museum Ticket Cancellation and Refund",
+		"titleKo": "Inquiring About Museum Ticket Cancellation and Refund",
+		"tags": [
+			"#Museum",
+			"#TicketCancellation",
+			"#Refund",
+			"#CustomerService"
+		],
+		"category": "박물관 입장권 취소 및 환불",
+		"expressionEn": "refund",
+		"expressionKo": "돈을 돌려주다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Hello, I have tickets to the museum for today, but I can't make it. "
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Can I cancel and get a refund?"
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "I'm sorry to hear that. "
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Yes, we can cancel and refund your tickets as long as it's 24 hours before the visit time."
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "That's great. How long does the refund process usually take?"
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Normally, it takes about 3 to 5 business days for the money to be back in your account."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Tom은 사용할 수 없는 박물관 티켓에 대한 '환불'을 Sarah에게 문의합니다.",
+				"phrase_en": "refund",
+				"phrase_ko": "돈을 돌려주다.",
+				"phrase_hook": "",
+				"example_en": "The store offers a full refund for items returned within 30 days.",
+				"example_ko": "그 가게는 30일 이내에 반환된 물품에 대해 전액 환불해줍니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 오늘 박물관에 갈 티켓을 가지고 있는데, 갈 수 없게 되었습니다. "
+			},
+			{
+				"sentence": "취소하고 환불받을 수 있나요?"
+			},
+			{
+				"sentence": "그런 일이 있어서 죄송합니다. "
+			},
+			{
+				"sentence": "방문 시간 24시간 전이라면 티켓을 취소하고 환불해드릴 수 있습니다."
+			},
+			{
+				"sentence": "좋군요. 환불 과정은 보통 얼마나 걸리나요?"
+			},
+			{
+				"sentence": "일반적으로, 돈이 계좌로 돌아오는 데는 약 3에서 5 영업일이 소요됩니다."
+			}
+		]
+	}
+}

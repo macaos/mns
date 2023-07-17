@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Checking Bags at the Airport",
+		"titleKo": "Checking Bags at the Airport",
+		"tags": [
+			"#airport",
+			"#luggage",
+			"#checkin",
+			"#travel"
+		],
+		"category": "Travel",
+		"expressionEn": "Check bags",
+		"expressionKo": "항공사에 수하물을 맡기다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Alex",
+				"gender": "M",
+				"sentence": "I need to check these bags, please."
+			},
+			{
+				"speaker": "Emily",
+				"gender": "W",
+				"sentence": "Of course. Let's weigh them first."
+			},
+			{
+				"speaker": "Alex",
+				"gender": "M",
+				"sentence": "Sure, I believe they're under the weight limit."
+			},
+			{
+				"speaker": "Emily",
+				"gender": "W",
+				"sentence": "They're just right. Now, do you have any fragile or valuable items?"
+			},
+			{
+				"speaker": "Alex",
+				"gender": "M",
+				"sentence": "Just some clothes and personal items, nothing fragile."
+			},
+			{
+				"speaker": "Emily",
+				"gender": "W",
+				"sentence": "Great. Your bags are all set to go. Please proceed to security."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Alex는 이 표현을 사용하여 자신의 수하물을 항공사에 맡기려고 한다는 것을 나타냅니다.",
+				"phrase_en": "Check bags",
+				"phrase_ko": "항공사에 수하물을 맡기다.",
+				"phrase_hook": "",
+				"example_en": "I need to check my bags at the counter before the flight.",
+				"example_ko": "비행기 타기 전에 카운터에서 수하물을 부쳐야 해요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "이 가방들을 부치고 싶습니다."
+			},
+			{
+				"sentence": "네, 먼저 무게를 확인해볼게요."
+			},
+			{
+				"sentence": "네, 제가 알기로는 무게 제한 이내입니다."
+			},
+			{
+				"sentence": "딱 맞네요. 혹시 깨지기 쉬우거나 값비싼 물건이 있나요?"
+			},
+			{
+				"sentence": "옷과 개인용품뿐이고, 깨질 것은 없습니다."
+			},
+			{
+				"sentence": "좋습니다. 가방은 이제 다 준비되었습니다. 보안 검색으로 가시면 됩니다."
+			}
+		]
+	}
+}

@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Reporting a Lost Passport While Travelling",
+		"titleKo": "Reporting a Lost Passport While Travelling",
+		"tags": [
+			"#Travel",
+			"#LostPassport",
+			"#Report",
+			"#Embassy"
+		],
+		"category": "여행 중 여권 분실 신고",
+		"expressionEn": "report",
+		"expressionKo": "사실을 알리다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Excuse me, I seem to have lost my passport. "
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "What should I do?"
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "I'm sorry to hear that. "
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "The first thing you need to do is report it to the local police."
+			},
+			{
+				"speaker": "Tom",
+				"gender": "M",
+				"sentence": "Once I've reported it, then what?"
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "Then, you should contact your embassy. "
+			},
+			{
+				"speaker": "Lisa",
+				"gender": "W",
+				"sentence": "They will guide you on the next steps."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Lisa는 '신고하다'를 사용하여 Tom에게 잃어버린 여권에 대해 현지 경찰에 알리라고 지시합니다.",
+				"phrase_en": "report",
+				"phrase_ko": "사실을 알리다.",
+				"phrase_hook": "",
+				"example_en": "She reported the incident to the police.",
+				"example_ko": "그녀는 그 사건을 경찰에 신고했다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 저는 제 여권을 잃어버렸습니다. "
+			},
+			{
+				"sentence": "어떻게 해야 할까요?"
+			},
+			{
+				"sentence": "그런 일이 있으셨군요. "
+			},
+			{
+				"sentence": "먼저 현지 경찰에 신고해야 합니다."
+			},
+			{
+				"sentence": "신고를 하고 나면 어떻게 해야 하나요?"
+			},
+			{
+				"sentence": "그런 다음에는 본국의 대사관에 연락해야 합니다. "
+			},
+			{
+				"sentence": "그들이 다음 단계를 안내해 줄 것입니다."
+			}
+		]
+	}
+}

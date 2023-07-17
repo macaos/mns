@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Asking About Breakfast at a Hotel Front Desk",
+		"titleKo": "Asking About Breakfast at a Hotel Front Desk",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#Breakfast",
+			"#FrontDesk"
+		],
+		"category": "해외여행 호텔 프론트에서 조식 안내",
+		"expressionEn": "served",
+		"expressionKo": "사용하거나 소비할 수 있도록 제공하다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "James",
+				"gender": "M",
+				"sentence": "Excuse me, could you tell me about the breakfast at this hotel?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "\"Of course, breakfast is served from 7:00 AM to 10:00 AM. "
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "You can choose from a variety of local and international dishes.\""
+			},
+			{
+				"speaker": "James",
+				"gender": "M",
+				"sentence": "Great. Where is it served?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "\"It's served in our dining hall on the ground floor. "
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "Just follow the signs from the lobby.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophie는 '제공되다'라는 단어를 사용하여 호텔에서 아침식사가 언제 어디에서 제공되는지 설명합니다.",
+				"phrase_en": "served",
+				"phrase_ko": "사용하거나 소비할 수 있도록 제공하다.",
+				"phrase_hook": "",
+				"example_en": "Dinner is served at 7pm in the dining hall.",
+				"example_ko": "저녁은 식당에서 오후 7시에 제공됩니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 이 호텔의 조식에 대해 알려주실 수 있나요?"
+			},
+			{
+				"sentence": "\"물론입니다, 조식은 오전 7시부터 10시까지 제공됩니다. "
+			},
+			{
+				"sentence": "다양한 현지 및 국제 요리 중에서 선택하실 수 있습니다.\""
+			},
+			{
+				"sentence": "좋네요. 어디에서 제공되나요?"
+			},
+			{
+				"sentence": "\"그것은 우리의 1층 식당에서 제공됩니다. 로비에서 "
+			},
+			{
+				"sentence": "표지판을 따라가시면 됩니다.\""
+			}
+		]
+	}
+}

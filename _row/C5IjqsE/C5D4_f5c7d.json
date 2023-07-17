@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring about Shuttle Service to Shopping Mall at a Hotel",
+		"titleKo": "Inquiring about Shuttle Service to Shopping Mall at a Hotel",
+		"tags": [
+			"#Hotel",
+			"#ShuttleService",
+			"#ShoppingMall",
+			"#Inquiry"
+		],
+		"category": "호텔에서 쇼핑몰 셔틀 시간 문의",
+		"expressionEn": "shuttle",
+		"expressionKo": "두 장소 사이를 오가는 차량."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "\"I heard there is a complimentary service to the nearby shopping center. "
+			},
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "Could you tell me more about it?\""
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "\"Yes, we have a shuttle service that goes to the mall. I"
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "t leaves every hour starting from 10 AM.\""
+			},
+			{
+				"speaker": "Jack",
+				"gender": "M",
+				"sentence": "What time is the last shuttle back to the hotel?"
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "The last shuttle from the mall back to the hotel is at 9 PM."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Linda는 '셔틀'이라는 단어를 사용하여 호텔이 고객을 쇼핑몰로 운송하기 위해 제공하는 차량 서비스를 가리킵니다.",
+				"phrase_en": "shuttle",
+				"phrase_ko": "두 장소 사이를 오가는 차량.",
+				"phrase_hook": "",
+				"example_en": "The hotel provides a shuttle service to the airport.",
+				"example_ko": "호텔은 공항까지 셔틀 서비스를 제공합니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"근처 쇼핑 센터로 가는 무료 서비스가 있다고 들었습니다. "
+			},
+			{
+				"sentence": "좀 더 자세히 알려주실 수 있나요?\""
+			},
+			{
+				"sentence": "\"네, 우리는 쇼핑몰로 가는 셔틀 서비스를 운영하고 있습니다. "
+			},
+			{
+				"sentence": "오전 10시부터 매시간 출발합니다.\""
+			},
+			{
+				"sentence": "마지막 셔틀은 언제 호텔로 돌아오나요?"
+			},
+			{
+				"sentence": "쇼핑몰에서 호텔로 돌아오는 마지막 셔틀은 오후 9시입니다."
+			}
+		]
+	}
+}

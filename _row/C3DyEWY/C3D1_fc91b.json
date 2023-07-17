@@ -1,0 +1,82 @@
+{
+	"data_meta": {
+		"titleEn": "Asking about Payment Methods at a Clothing Store in a Shopping Mall",
+		"titleKo": "Asking about Payment Methods at a Clothing Store in a Shopping Mall",
+		"tags": [
+			"#ShoppingMall",
+			"#ClothingStore",
+			"#PaymentMethods",
+			"#Query"
+		],
+		"category": "쇼핑몰 옷가게에서 결제 방법 문의",
+		"expressionEn": "proceed",
+		"expressionKo": "앞으로 나아가다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "\"Hello, I found a shirt I like. "
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "How can I pay for this?\""
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Great! You can pay by cash, credit card, or mobile payment at the counter."
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Do you accept foreign credit cards?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "\"Yes, we do accept most of the major foreign credit cards. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Please proceed to the counter.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Sophia는 '진행하다'라는 단어를 사용하여 John에게 결제를 위해 카운터로 이동하라는 지시를 합니다.",
+				"phrase_en": "proceed",
+				"phrase_ko": "앞으로 나아가다.",
+				"phrase_hook": "",
+				"example_en": "After you have selected your items, please proceed to the counter for payment.",
+				"example_ko": "물건을 선택한 후에는 결제를 위해 카운터로 진행해주세요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"안녕하세요, 마음에 드는 셔츠를 찾았습니다. "
+			},
+			{
+				"sentence": "이것을 어떻게 결제할 수 있나요?\""
+			},
+			{
+				"sentence": "좋아요! 카운터에서 현금, 신용카드, 또는 모바일 결제를 이용하실 수 있습니다."
+			},
+			{
+				"sentence": "외국 신용카드도 받으시나요?"
+			},
+			{
+				"sentence": "\"네, 대부분의 주요 외국 신용카드를 받습니다. "
+			},
+			{
+				"sentence": "카운터로 가주세요.\""
+			}
+		]
+	}
+}

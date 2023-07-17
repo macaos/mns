@@ -1,0 +1,106 @@
+{
+	"data_meta": {
+		"titleEn": "At the Pharmacy",
+		"titleKo": "At the Pharmacy",
+		"tags": [
+			"#EnglishConversation",
+			"#BeginnerLevel",
+			"#Pharmacy",
+			"#HeadacheMedicine"
+		],
+		"category": "약국에서 두통약 구매",
+		"expressionEn": "Take care of yourself",
+		"expressionKo": "당신의 건강에 주의하세요"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Hello, can you assist me? "
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "My head is really bothering me."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Oh, I'm sorry to hear that. "
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "We have just the thing to help you out."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Great, I could really use some relief."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Here, these are very effective. "
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "You should start feeling better soon."
+			},
+			{
+				"speaker": "David",
+				"gender": "M",
+				"sentence": "Thank you, I appreciate your help."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "You're welcome. Take care of yourself."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "린다는 이 표현을 사용하여 데이비드에게 건강과 웰빙을 바랍니다.",
+				"phrase_en": "Take care of yourself",
+				"phrase_ko": "당신의 건강에 주의하세요",
+				"phrase_hook": "",
+				"example_en": "You're working too hard. You need to take care of yourself.",
+				"example_ko": "너무 열심히 일하고 있어. 스스로를 챙겨야 해."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 도와주실 수 있나요? "
+			},
+			{
+				"sentence": "머리가 많이 아파요."
+			},
+			{
+				"sentence": "아, 그럼 정말 미안하네요. "
+			},
+			{
+				"sentence": "우리에게 딱 필요한 것이 있어요."
+			},
+			{
+				"sentence": "좋아요, 정말로 안도감을 느끼고 싶어요."
+			},
+			{
+				"sentence": "이것들이 정말 효과적이에요. "
+			},
+			{
+				"sentence": "곧 좋아지실 거에요."
+			},
+			{
+				"sentence": "감사합니다, 도움을 주셔서."
+			},
+			{
+				"sentence": "천만에요. 건강하세요."
+			}
+		]
+	}
+}

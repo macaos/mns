@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Hotel Check-in Conversation",
+		"titleKo": "Hotel Check-in Conversation",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#Reservation",
+			"#Confirmation"
+		],
+		"category": "해외여행 호텔 프론트에서 예약확인",
+		"expressionEn": "Enjoy your stay",
+		"expressionKo": "숙박하는 동안 즐거운 시간 보내기를 바라는 말"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Mike",
+				"gender": "M",
+				"sentence": "Good afternoon, ma'am. How may I assist you today?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Hello, I have a reservation under the name Sophia Johnson. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Can you confirm, please?"
+			},
+			{
+				"speaker": "Mike",
+				"gender": "M",
+				"sentence": "Let me check it for you... Yes, Ms. Johnson, your room is ready. "
+			},
+			{
+				"speaker": "Mike",
+				"gender": "M",
+				"sentence": "You're booked for three nights, correct?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "That's right. Thank you."
+			},
+			{
+				"speaker": "Mike",
+				"gender": "M",
+				"sentence": "You're welcome. Enjoy your stay!"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "I'm sure I will. Thanks again!"
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "호텔 직원인 Mike가 호텔에 체크인하는 Sophia에게 이 말을 합니다.",
+				"phrase_en": "Enjoy your stay",
+				"phrase_ko": "숙박하는 동안 즐거운 시간 보내기를 바라는 말",
+				"phrase_hook": "",
+				"example_en": "We hope you enjoy your stay at our hotel.",
+				"example_ko": "저희 호텔에서 즐거운 시간 보내시길 바랍니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하세요, 부인. 무엇을 도와드릴까요?"
+			},
+			{
+				"sentence": "안녕하세요, 제 이름으로 예약을 했습니다. Sophia Johnson입니다. "
+			},
+			{
+				"sentence": "확인해 주시겠어요?"
+			},
+			{
+				"sentence": "확인해 드리겠습니다... 네, Johnson 부인, 방이 준비되었습니다. "
+			},
+			{
+				"sentence": "3박 예약하셨죠?"
+			},
+			{
+				"sentence": "맞아요. 감사합니다."
+			},
+			{
+				"sentence": "천만에요. 즐거운 시간 보내세요!"
+			},
+			{
+				"sentence": "그럴 거예요. 다시 감사드립니다!"
+			}
+		]
+	}
+}

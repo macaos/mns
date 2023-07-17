@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Describing a Situation of Lost Bag During Travel",
+		"titleKo": "Describing a Situation of Lost Bag During Travel",
+		"tags": [
+			"#Travel",
+			"#LostBag",
+			"#Emergency",
+			"#Communication"
+		],
+		"category": "여행 중 가방 도난상황 설명",
+		"expressionEn": "missing",
+		"expressionKo": "예상했던 곳에 없거나 포함되지 않음."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "Excuse me, I seem to have a problem. "
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "My bag is missing."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Oh no, that's terrible! "
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "When and where did you last see it?"
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "I remember putting it down at the café around the corner about an hour ago."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Did you have any valuables in it?"
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "Yes, my passport and wallet were in there."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Let's report this to the local police right away."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 George는 '없어졌다'라는 단어를 사용하여 그의 가방이 현재 없거나 찾을 수 없다는 것을 설명합니다.",
+				"phrase_en": "missing",
+				"phrase_ko": "예상했던 곳에 없거나 포함되지 않음.",
+				"phrase_hook": "",
+				"example_en": "My book is missing. I can't find it anywhere.",
+				"example_ko": "제 책이 없어졌어요. 어디에서도 찾을 수 없습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 문제가 생겼어요. "
+			},
+			{
+				"sentence": "제 가방이 없어졌습니다."
+			},
+			{
+				"sentence": "이런, 너무나 안타깝네요! "
+			},
+			{
+				"sentence": "마지막으로 언제, 어디에서 보셨나요?"
+			},
+			{
+				"sentence": "한 시간 전에 모퉁이에 있는 카페에서 두었다는 걸 기억합니다."
+			},
+			{
+				"sentence": "중요한 물건이 가방 안에 있었나요?"
+			},
+			{
+				"sentence": "네, 여권과 지갑이 있었습니다."
+			},
+			{
+				"sentence": "바로 현지 경찰에 보고해야겠어요."
+			}
+		]
+	}
+}

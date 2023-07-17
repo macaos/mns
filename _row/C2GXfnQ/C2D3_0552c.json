@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Request to Change Room at a Hotel",
+		"titleKo": "Request to Change Room at a Hotel",
+		"tags": [
+			"#Travel",
+			"#Hotel",
+			"#RoomChange",
+			"#Request"
+		],
+		"category": "해외여행 호텔 객실 변경요청",
+		"expressionEn": "This is much appreciated",
+		"expressionKo": "매우 감사하다는 표현"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Good evening, ma'am. How can I assist you today?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Good evening. I've been assigned to room 201, but I'd prefer a room on a higher floor if available."
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Sure, let me see what we have. "
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Yes, we do have a room available on the 10th floor. Would that be okay?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "That sounds perfect. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Could I move there right away?"
+			},
+			{
+				"speaker": "Robert",
+				"gender": "M",
+				"sentence": "Of course, ma'am. Let me get the new room key for you."
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Thank you so much, Robert. This is much appreciated."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Sophia가 객실 변경을 조정해준 Robert에게 깊은 감사의 의미로 이 표현을 사용합니다.",
+				"phrase_en": "This is much appreciated",
+				"phrase_ko": "매우 감사하다는 표현",
+				"phrase_hook": "",
+				"example_en": "Your help with the project is much appreciated.",
+				"example_ko": "프로젝트를 도와주셔서 대단히 감사합니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "안녕하십니까, 부인. 오늘 어떻게 도와드릴까요?"
+			},
+			{
+				"sentence": "안녕하세요. 저는 201호에 배정받았는데, 가능하다면 높은 층의 객실을 원합니다."
+			},
+			{
+				"sentence": "네, 확인해보겠습니다. "
+			},
+			{
+				"sentence": "네, 10층에 비어있는 객실이 있습니다. 괜찮으실까요?"
+			},
+			{
+				"sentence": "완벽합니다. "
+			},
+			{
+				"sentence": "바로 이동할 수 있을까요?"
+			},
+			{
+				"sentence": "물론입니다, 부인. 새 객실 키를 드리겠습니다."
+			},
+			{
+				"sentence": "정말 감사합니다, Robert. 대단히 고마워요."
+			}
+		]
+	}
+}

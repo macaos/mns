@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Asking for a Different Size at a Clothes Store During Overseas Travel",
+		"titleKo": "Asking for a Different Size at a Clothes Store During Overseas Travel",
+		"tags": [
+			"#Travel",
+			"#ClothingStore",
+			"#Size",
+			"#Shopping"
+		],
+		"category": "해외여행 중 옷가게에서 다른 사이즈 문의",
+		"expressionEn": "tight",
+		"expressionKo": "매우 꽉 찬."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "\"Excuse me, I like this shirt but it seems a bit tight. "
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "Do you have it in a larger size?\""
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "\"Sure, let me check in the back for you. "
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "What size do you usually wear?\""
+			},
+			{
+				"speaker": "George",
+				"gender": "M",
+				"sentence": "I normally wear a size large."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "\"Alright, let me see if we have that size available. "
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Please wait a moment.\""
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 George는 '타이트하다'라는 단어를 사용하여 셔츠가 너무 꽉 차서 더 큰 사이즈가 필요하다고 설명합니다.",
+				"phrase_en": "tight",
+				"phrase_ko": "매우 꽉 찬.",
+				"phrase_hook": "",
+				"example_en": "This shirt is too tight, I need a larger size.",
+				"example_ko": "이 셔츠는 너무 타이트해요, 더 큰 사이즈가 필요합니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"실례합니다, 이 셔츠가 마음에 드는데 조금 타이트한 것 같습니다. "
+			},
+			{
+				"sentence": "더 큰 사이즈가 있나요?\""
+			},
+			{
+				"sentence": "\"네, 잠시만요. "
+			},
+			{
+				"sentence": "보통 어떤 사이즈를 착용하시나요?\""
+			},
+			{
+				"sentence": "보통 큰 사이즈를 착용합니다."
+			},
+			{
+				"sentence": "\"알겠습니다, 그 사이즈가 있는지 확인해보겠습니다. "
+			},
+			{
+				"sentence": "잠시만 기다려 주세요.\""
+			}
+		]
+	}
+}

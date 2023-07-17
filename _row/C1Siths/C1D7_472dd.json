@@ -1,0 +1,114 @@
+{
+	"data_meta": {
+		"titleEn": "Adjusting Flight Details",
+		"titleKo": "Adjusting Flight Details",
+		"tags": [
+			"#Travel",
+			"#Airport",
+			"#FlightChange",
+			"#CustomerService"
+		],
+		"category": "해외여행 공항에서 비행기 티켓 변경",
+		"expressionEn": "unforeseen circumstances",
+		"expressionKo": "예상하지 못한 사건이나 상황."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Ethan",
+				"gender": "M",
+				"sentence": "I need some help, please."
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Sure, Ethan. What can I assist you with?"
+			},
+			{
+				"speaker": "Ethan",
+				"gender": "M",
+				"sentence": "I have to adjust my flight details. "
+			},
+			{
+				"speaker": "Ethan",
+				"gender": "M",
+				"sentence": "Some unforeseen circumstances came up."
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "I understand, Ethan. We can definitely help with that. "
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Which flight were you booked on?"
+			},
+			{
+				"speaker": "Ethan",
+				"gender": "M",
+				"sentence": "I was scheduled for the flight to Paris tomorrow afternoon."
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "I see. And what would you like to change it to?"
+			},
+			{
+				"speaker": "Ethan",
+				"gender": "M",
+				"sentence": "If possible, could I get on the flight the day after tomorrow, same time?"
+			},
+			{
+				"speaker": "Sophia",
+				"gender": "W",
+				"sentence": "Let me check the availability. One moment, please."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 Ethan이 비행 정보를 변경해야 하는 이유를 설명할 때 \"예기치 못한 사정\"이라는 표현을 사용하였습니다.",
+				"phrase_en": "unforeseen circumstances",
+				"phrase_ko": "예상하지 못한 사건이나 상황.",
+				"phrase_hook": "",
+				"example_en": "Due to unforeseen circumstances, we had to cancel the meeting.",
+				"example_ko": "예기치 못한 사정 때문에 회의를 취소해야 했습니다."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "도움이 필요해요, 제발."
+			},
+			{
+				"sentence": "물론이죠, Ethan. 무엇을 도와드릴까요?"
+			},
+			{
+				"sentence": "비행 상세 정보를 조정해야 해요. "
+			},
+			{
+				"sentence": "예기치 못한 사정이 생겼어요."
+			},
+			{
+				"sentence": "알겠습니다, Ethan. 그런 문제는 저희가 해결해드릴 수 있어요. "
+			},
+			{
+				"sentence": "어느 비행기를 예약하셨나요?"
+			},
+			{
+				"sentence": "내일 오후 파리행 비행기를 예약했어요."
+			},
+			{
+				"sentence": "알겠습니다. 그럼 어떻게 변경하고 싶으신가요?"
+			},
+			{
+				"sentence": "가능하다면, 모레 같은 시간에 비행기를 탈 수 있을까요?"
+			},
+			{
+				"sentence": "가능한지 확인해보겠습니다. 잠시만 기다려주세요."
+			}
+		]
+	}
+}

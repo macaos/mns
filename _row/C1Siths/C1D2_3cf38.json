@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Passport Control at the Airport",
+		"titleKo": "Passport Control at the Airport",
+		"tags": [
+			"#airport",
+			"#passport",
+			"#travel",
+			"#departure"
+		],
+		"category": "Travel",
+		"expressionEn": "Take your time",
+		"expressionKo": "서둘지 말다; 천천히 하다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Here's my boarding pass and passport."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Thank you. Let me check them quickly."
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Sure, take your time."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Everything looks good. Please proceed to the gate."
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Thank you."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "Have a safe flight!"
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "I appreciate it."
+			},
+			{
+				"speaker": "Linda",
+				"gender": "W",
+				"sentence": "You're welcome. Enjoy your trip."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "John은 Linda에게 여권과 탑승권을 체크하는데 시간을 천천히 가져도 된다고 말하고 있습니다.",
+				"phrase_en": "Take your time",
+				"phrase_ko": "서둘지 말다; 천천히 하다.",
+				"phrase_hook": "",
+				"example_en": "Don't worry about it. Take your time.",
+				"example_ko": "걱정하지 마세요. 천천히 하세요."
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "여기 제 탑승권과 여권입니다."
+			},
+			{
+				"sentence": "감사합니다. 잠시 확인해볼게요."
+			},
+			{
+				"sentence": "네, 천천히 해주세요."
+			},
+			{
+				"sentence": "모두 잘 확인되었습니다. 게이트로 진행해주세요."
+			},
+			{
+				"sentence": "감사합니다."
+			},
+			{
+				"sentence": "안전한 비행 되세요!"
+			},
+			{
+				"sentence": "감사드립니다."
+			},
+			{
+				"sentence": "천만에요. 여행 즐기세요."
+			}
+		]
+	}
+}

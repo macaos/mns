@@ -1,0 +1,74 @@
+{
+	"data_meta": {
+		"titleEn": "Inquiring About Clothing Price at a Shop During Overseas Travel",
+		"titleKo": "Inquiring About Clothing Price at a Shop During Overseas Travel",
+		"tags": [
+			"#Travel",
+			"#Shopping",
+			"#Clothing",
+			"#PriceInquiry"
+		],
+		"category": "해외여행 중 옷가게에서 가격 문의",
+		"expressionEn": "discount",
+		"expressionKo": "가격을 줄이다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "James",
+				"gender": "M",
+				"sentence": "\"Hello, I'm interested in this shirt. "
+			},
+			{
+				"speaker": "James",
+				"gender": "M",
+				"sentence": "Can you tell me how much it costs?\""
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "Sure, that shirt is $50."
+			},
+			{
+				"speaker": "James",
+				"gender": "M",
+				"sentence": "Is there any discount for it?"
+			},
+			{
+				"speaker": "Sophie",
+				"gender": "W",
+				"sentence": "I'm sorry, but we don't have any discounts at the moment."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "대화에서 James는 '할인'이라는 단어를 사용하여 셔츠의 가격이 어느 정도 인하되는지 묻습니다.",
+				"phrase_en": "discount",
+				"phrase_ko": "가격을 줄이다.",
+				"phrase_hook": "",
+				"example_en": "Is there any discount for this product?",
+				"example_ko": "이 제품에 할인이 있나요?"
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "\"안녕하세요, 이 셔츠에 관심이 있습니다. "
+			},
+			{
+				"sentence": "가격이 얼마인지 알 수 있을까요?\""
+			},
+			{
+				"sentence": "그럼요, 그 셔츠는 50달러입니다."
+			},
+			{
+				"sentence": "할인은 있나요?"
+			},
+			{
+				"sentence": "죄송하지만, 현재는 할인이 없습니다."
+			}
+		]
+	}
+}

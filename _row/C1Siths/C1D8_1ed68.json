@@ -1,0 +1,90 @@
+{
+	"data_meta": {
+		"titleEn": "Airport Security Check Conversation",
+		"titleKo": "Airport Security Check Conversation",
+		"tags": [
+			"#Travel",
+			"#Airport",
+			"#Security",
+			"#Communication"
+		],
+		"category": "해외여행 공항 보안 검색대 요원과 승객",
+		"expressionEn": "Have a safe flight",
+		"expressionKo": "안전한 여행을 바라는 말"
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Could you please remove your belt, ma'am?"
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Sure, just give me a moment."
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Thank you for your cooperation. "
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "Don't forget to collect your belongings after the scan."
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "No problem, and thank you for guiding me through the process."
+			},
+			{
+				"speaker": "John",
+				"gender": "M",
+				"sentence": "It's my job, ma'am. Have a safe flight!"
+			},
+			{
+				"speaker": "Sarah",
+				"gender": "W",
+				"sentence": "Thank you, have a great day too!"
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "보안 요원인 John이 보안 검색을 통과한 Sarah에게 이 말을 합니다.",
+				"phrase_en": "Have a safe flight",
+				"phrase_ko": "안전한 여행을 바라는 말",
+				"phrase_hook": "",
+				"example_en": "Thank you for your help at the check-in counter. Have a safe flight!",
+				"example_ko": "체크인 카운터에서의 도움에 감사드립니다. 안전한 비행 되세요!"
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "벨트를 벗어 주시겠어요, 부인?"
+			},
+			{
+				"sentence": "그럼요, 잠시만요."
+			},
+			{
+				"sentence": "협조해 주셔서 감사합니다. "
+			},
+			{
+				"sentence": "검색 후에는 물건을 꼭 찾아가세요."
+			},
+			{
+				"sentence": "문제 없어요, 절차를 안내해 주셔서 감사해요."
+			},
+			{
+				"sentence": "제 일이니까요, 부인. 안전한 비행 되세요!"
+			},
+			{
+				"sentence": "감사합니다, 좋은 하루 보내세요!"
+			}
+		]
+	}
+}

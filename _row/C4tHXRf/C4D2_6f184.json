@@ -1,0 +1,98 @@
+{
+	"data_meta": {
+		"titleEn": "Seeking a Gift Overseas",
+		"titleKo": "Seeking a Gift Overseas",
+		"tags": [
+			"#shopping",
+			"#gift",
+			"#fragrance",
+			"#overseas"
+		],
+		"category": "Travel",
+		"expressionEn": "get some help",
+		"expressionKo": "도움을 받다."
+	},
+	"data_en": {
+		"sentences": [
+			{
+				"speaker": "Jake",
+				"gender": "M",
+				"sentence": "Excuse me, could I get some help?"
+			},
+			{
+				"speaker": "Nancy",
+				"gender": "W",
+				"sentence": "Of course! What are you looking for?"
+			},
+			{
+				"speaker": "Jake",
+				"gender": "M",
+				"sentence": "I want to find a special gift for my wife."
+			},
+			{
+				"speaker": "Nancy",
+				"gender": "W",
+				"sentence": "Sure thing. Any specific type she would enjoy?"
+			},
+			{
+				"speaker": "Jake",
+				"gender": "M",
+				"sentence": "She really likes things that smell nice."
+			},
+			{
+				"speaker": "Nancy",
+				"gender": "W",
+				"sentence": "We have a wide variety of fragrances. Let me show you."
+			},
+			{
+				"speaker": "Jake",
+				"gender": "M",
+				"sentence": "Thanks for your assistance."
+			},
+			{
+				"speaker": "Nancy",
+				"gender": "W",
+				"sentence": "No problem at all. Please follow me."
+			}
+		],
+		"expressions": [
+			{
+				"type": 1,
+				"desc": "Jake는 선물을 찾는데 Nancy에게 도움을 청하고 있습니다.",
+				"phrase_en": "get some help",
+				"phrase_ko": "도움을 받다.",
+				"phrase_hook": "",
+				"example_en": "Can I get some help with these boxes?",
+				"example_ko": "이 박스들 좀 들어주실 수 있나요?"
+			}
+		]
+	},
+	"data_kr": {
+		"sentences": [
+			{
+				"sentence": "실례합니다, 도와주실 수 있나요?"
+			},
+			{
+				"sentence": "당연히요! 무엇을 찾고 계세요?"
+			},
+			{
+				"sentence": "제 아내를 위한 특별한 선물을 찾고 싶습니다."
+			},
+			{
+				"sentence": "그럼요. 그녀가 좋아할 만한 특정한 종류가 있나요?"
+			},
+			{
+				"sentence": "그녀는 향이 좋은 물건을 정말 좋아해요."
+			},
+			{
+				"sentence": "우리는 다양한 향수를 갖추고 있습니다. 제가 보여드릴게요."
+			},
+			{
+				"sentence": "도와주셔서 감사합니다."
+			},
+			{
+				"sentence": "별 말씀을요. 저를 따라오세요."
+			}
+		]
+	}
+}
